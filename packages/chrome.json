@@ -1,0 +1,16 @@
+{
+  "id": "chrome",
+  "name": "Google Chrome",
+  "description": "Navegador web rápido e seguro do Google.",
+  "category": "web-browser",
+  "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg",
+  "package_name": "google-chrome-stable",
+  "install_type": "deb",
+  "current_release": {
+    "version": "144.0.7559.109-1",
+    "download_url": "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb",
+    "checksum": "3b77c509c4a0847a2bf146aabd40a7fc60ea283fbc482ad74fa1449d687d4147",
+    "size": 118801336
+  },
+  "last_checked_at": "2026-02-02T03:03:52.021519219-03:00"
+}
