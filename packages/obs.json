@@ -1,0 +1,16 @@
+{
+  "id": "obs",
+  "name": "OBS Studio",
+  "description": "OBS Studio para Ubuntu",
+  "category": "web-browser",
+  "icon_url": "https://raw.githubusercontent.com/luizhanauer/updater-registry/refs/heads/main/img/obs.png",
+  "package_name": "obs-studio",
+  "install_type": "deb",
+  "current_release": {
+    "version": "32.0.4",
+    "download_url": "https://github.com/obsproject/obs-studio/releases/download/32.0.4/OBS-Studio-32.0.4-Ubuntu-24.04-x86_64.deb",
+    "checksum": "b146f22a34888bb9854bd7574fc949b00043ba38d222da13f71c180050bf289b",
+    "size": 134070906
+  },
+  "last_checked_at": "2026-02-03T22:01:52.693992872Z"
+}
