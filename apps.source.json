@@ -57,7 +57,7 @@
   {
     "id": "obs",
     "name": "OBS Studio",
-    "description": "OBS Studio para Ubuntu",
+    "description": "Software livre e de código aberto para gravação de vídeo e transmissão ao vivo.",
     "category": "web-browser",
     "icon_url": "https://raw.githubusercontent.com/luizhanauer/updater-registry/refs/heads/main/img/obs.png",
     "package_name": "obs-studio",
