@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-03T21:32:43.385300328Z",
+  "last_updated": "2026-02-03T21:40:30.573413547Z",
   "apps": {
     "chrome": {
       "id": "chrome",
       "name": "Google Chrome",
       "description": "Navegador web rápido e seguro do Google.",
       "category": "web-browser",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg",
+      "icon_url": "https://raw.githubusercontent.com/luizhanauer/updater-registry/refs/heads/main/img/chrome.svg",
       "package_name": "google-chrome-stable",
       "install_type": "deb",
       "current_release": {
@@ -15,14 +15,14 @@
         "checksum": "e55b896a2c65c3da3ea03d5ba7a4b7a36911f0a7289689921725a93194327703",
         "size": 118945608
       },
-      "last_checked_at": "2026-02-03T21:32:43.384978659Z"
+      "last_checked_at": "2026-02-03T21:40:30.573089343Z"
     },
     "discord": {
       "id": "discord",
       "name": "Discord",
       "description": "Chat de voz e texto para gamers e comunidades.",
       "category": "communication",
-      "icon_url": "https://assets-global.website-files.com/6257adef93867e56f84d3092/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
+      "icon_url": "https://raw.githubusercontent.com/luizhanauer/updater-registry/refs/heads/main/img/discord.png",
       "package_name": "discord",
       "install_type": "deb",
       "current_release": {
@@ -31,14 +31,14 @@
         "checksum": "dc5d3dc83cb3ad7ffbb728adf0abc7fceb56757c13819b8be7b0f0c0448b4ee5",
         "size": 108129294
       },
-      "last_checked_at": "2026-02-03T21:32:37.341879095Z"
+      "last_checked_at": "2026-02-03T21:40:27.023419965Z"
     },
     "rustdesk": {
       "id": "rustdesk",
       "name": "RustDesk",
       "description": "Acesso remoto open-source, alternativa ao TeamViewer.",
       "category": "remote-desktop",
-      "icon_url": "https://rustdesk.com/favicon.png",
+      "icon_url": "https://raw.githubusercontent.com/luizhanauer/updater-registry/refs/heads/main/img/rustdesk.png",
       "package_name": "rustdesk",
       "install_type": "deb",
       "current_release": {
@@ -47,14 +47,14 @@
         "checksum": "6117ea2c2f5885830bff64b6b695b2596a2613dc35301539f19ae52747181c83",
         "size": 23060404
       },
-      "last_checked_at": "2026-02-03T21:32:35.210194131Z"
+      "last_checked_at": "2026-02-03T21:40:26.202730569Z"
     },
     "vscode": {
       "id": "vscode",
       "name": "Visual Studio Code",
       "description": "Editor de código fonte desenvolvido pela Microsoft.",
       "category": "development",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png",
+      "icon_url": "https://raw.githubusercontent.com/luizhanauer/updater-registry/refs/heads/main/img/vscode.png",
       "package_name": "code",
       "install_type": "deb",
       "current_release": {
@@ -63,7 +63,7 @@
         "checksum": "af054638b3f0638ad117f636d8ca559e0b310d69d9369365c7f631fe81e0e7d1",
         "size": 114493978
       },
-      "last_checked_at": "2026-02-03T21:32:38.150354414Z"
+      "last_checked_at": "2026-02-03T21:40:27.698679369Z"
     }
   }
 }

@@ -1,0 +1,16 @@
+{
+  "id": "vscode",
+  "name": "Visual Studio Code",
+  "description": "Editor de código fonte desenvolvido pela Microsoft.",
+  "category": "development",
+  "icon_url": "https://raw.githubusercontent.com/luizhanauer/updater-registry/refs/heads/main/img/vscode.png",
+  "package_name": "code",
+  "install_type": "deb",
+  "current_release": {
+    "version": "1.108.2-1769004815",
+    "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/c9d77990917f3102ada88be140d28b038d1dd7c7/code_1.108.2-1769004815_amd64.deb",
+    "checksum": "af054638b3f0638ad117f636d8ca559e0b310d69d9369365c7f631fe81e0e7d1",
+    "size": 114493978
+  },
+  "last_checked_at": "2026-02-03T21:40:27.698679369Z"
+}

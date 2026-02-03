@@ -1,0 +1,16 @@
+{
+  "id": "rustdesk",
+  "name": "RustDesk",
+  "description": "Acesso remoto open-source, alternativa ao TeamViewer.",
+  "category": "remote-desktop",
+  "icon_url": "https://raw.githubusercontent.com/luizhanauer/updater-registry/refs/heads/main/img/rustdesk.png",
+  "package_name": "rustdesk",
+  "install_type": "deb",
+  "current_release": {
+    "version": "1.4.5",
+    "download_url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.5/rustdesk-1.4.5-x86_64.deb",
+    "checksum": "6117ea2c2f5885830bff64b6b695b2596a2613dc35301539f19ae52747181c83",
+    "size": 23060404
+  },
+  "last_checked_at": "2026-02-03T21:40:26.202730569Z"
+}
