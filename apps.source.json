@@ -1,18 +1,4 @@
 [
-    {
-    "id": "brave",
-    "name": "Brave Browser",
-    "description": "Navegue mais rápido bloqueando anúncios e rastreadores que violam sua privacidade e custam tempo e dinheiro.",
-    "category": "brave-browser",
-    "icon_url": "https://raw.githubusercontent.com/luizhanauer/updater-registry/refs/heads/main/img/brave.png",
-    "package_name": "brave-browser",
-    "install_type": "deb",
-    "strategy": "github_release",
-    "config": {
-      "repo": "brave/brave-browser",
-      "asset_filter": "amd64.deb"
-    }
-  },
   {
     "id": "heroic",
     "name": "Heroic Games Launcher",
