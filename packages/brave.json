@@ -1,0 +1,16 @@
+{
+  "id": "brave",
+  "name": "Brave Browser",
+  "description": "Navegue mais rápido bloqueando anúncios e rastreadores que violam sua privacidade e custam tempo e dinheiro.",
+  "category": "brave-browser",
+  "icon_url": "https://raw.githubusercontent.com/luizhanauer/updater-registry/refs/heads/main/img/brave.png",
+  "package_name": "brave-browser",
+  "install_type": "deb",
+  "current_release": {
+    "version": "1.86.148",
+    "download_url": "https://github.com/brave/brave-browser/releases/download/v1.86.148/brave-browser_1.86.148_amd64.deb",
+    "checksum": "54b24b53d860297eccc21c5d14bc9a3d398e6faf8012c2737b8d0478f55df948",
+    "size": 127847344
+  },
+  "last_checked_at": "2026-02-05T16:48:08.183125113Z"
+}

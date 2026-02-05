@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-02-05T16:13:31.830424565Z",
+  "last_updated": "2026-02-05T16:48:13.372741811Z",
   "apps": {
+    "brave": {
+      "id": "brave",
+      "name": "Brave Browser",
+      "description": "Navegue mais rápido bloqueando anúncios e rastreadores que violam sua privacidade e custam tempo e dinheiro.",
+      "category": "brave-browser",
+      "icon_url": "https://raw.githubusercontent.com/luizhanauer/updater-registry/refs/heads/main/img/brave.png",
+      "package_name": "brave-browser",
+      "install_type": "deb",
+      "current_release": {
+        "version": "1.86.148",
+        "download_url": "https://github.com/brave/brave-browser/releases/download/v1.86.148/brave-browser_1.86.148_amd64.deb",
+        "checksum": "54b24b53d860297eccc21c5d14bc9a3d398e6faf8012c2737b8d0478f55df948",
+        "size": 127847344
+      },
+      "last_checked_at": "2026-02-05T16:48:08.183125113Z"
+    },
     "chrome": {
       "id": "chrome",
       "name": "Google Chrome",
@@ -15,7 +31,7 @@
         "checksum": "e55b896a2c65c3da3ea03d5ba7a4b7a36911f0a7289689921725a93194327703",
         "size": 118945608
       },
-      "last_checked_at": "2026-02-05T16:13:31.62664812Z"
+      "last_checked_at": "2026-02-05T16:48:13.08824068Z"
     },
     "discord": {
       "id": "discord",
@@ -31,7 +47,7 @@
         "checksum": "dc5d3dc83cb3ad7ffbb728adf0abc7fceb56757c13819b8be7b0f0c0448b4ee5",
         "size": 108129294
       },
-      "last_checked_at": "2026-02-05T16:13:23.581488275Z"
+      "last_checked_at": "2026-02-05T16:48:08.79240869Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +63,7 @@
         "checksum": "1b24ed61546ff6dc386a01091599c9543e7d10cb082ce5a2db5eb12c1d49221c",
         "size": 136204006
       },
-      "last_checked_at": "2026-02-05T16:13:23.199276298Z"
+      "last_checked_at": "2026-02-05T16:48:08.418148966Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +79,7 @@
         "checksum": "b146f22a34888bb9854bd7574fc949b00043ba38d222da13f71c180050bf289b",
         "size": 134070906
       },
-      "last_checked_at": "2026-02-05T16:13:31.829959136Z"
+      "last_checked_at": "2026-02-05T16:48:13.372269285Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +95,7 @@
         "checksum": "6117ea2c2f5885830bff64b6b695b2596a2613dc35301539f19ae52747181c83",
         "size": 23060404
       },
-      "last_checked_at": "2026-02-05T16:13:23.36983138Z"
+      "last_checked_at": "2026-02-05T16:48:08.650782816Z"
     },
     "vscode": {
       "id": "vscode",
@@ -95,7 +111,7 @@
         "checksum": "5c45e63e503d608bfd02015073c18d7f5ec670fdbad270af108524ebfc53da42",
         "size": 116502670
       },
-      "last_checked_at": "2026-02-05T16:13:25.685064936Z"
+      "last_checked_at": "2026-02-05T16:48:10.674569197Z"
     }
   }
 }
