@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T00:09:17.024988274Z",
+  "last_updated": "2026-02-17T00:09:57.199081183Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -15,7 +15,7 @@
         "checksum": "e21163461914451ab535774050f7ac4b7dadfcdc86f5e6fbf38fec5bbe439425",
         "size": 121093268
       },
-      "last_checked_at": "2026-02-16T00:09:16.917541838Z"
+      "last_checked_at": "2026-02-17T00:09:56.889809145Z"
     },
     "discord": {
       "id": "discord",
@@ -31,7 +31,7 @@
         "checksum": "e4edbfc82f6c99cbf77748414b80659a51a2c21baf16a3295efce341cbd948ba",
         "size": 108129278
       },
-      "last_checked_at": "2026-02-16T00:08:52.027644043Z"
+      "last_checked_at": "2026-02-17T00:09:24.191786467Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "1b24ed61546ff6dc386a01091599c9543e7d10cb082ce5a2db5eb12c1d49221c",
         "size": 136204006
       },
-      "last_checked_at": "2026-02-16T00:08:51.720904995Z"
+      "last_checked_at": "2026-02-17T00:09:23.46446604Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "b146f22a34888bb9854bd7574fc949b00043ba38d222da13f71c180050bf289b",
         "size": 134070906
       },
-      "last_checked_at": "2026-02-16T00:09:17.024375058Z"
+      "last_checked_at": "2026-02-17T00:09:57.198647884Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "6117ea2c2f5885830bff64b6b695b2596a2613dc35301539f19ae52747181c83",
         "size": 23060404
       },
-      "last_checked_at": "2026-02-16T00:08:51.834530291Z"
+      "last_checked_at": "2026-02-17T00:09:23.934184105Z"
     },
     "vscode": {
       "id": "vscode",
@@ -90,12 +90,12 @@
       "package_name": "code",
       "install_type": "deb",
       "current_release": {
-        "version": "1.109.3-1770920364",
-        "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/b6a47e94e326b5c209d118cf0f994d6065585705/code_1.109.3-1770920364_amd64.deb",
-        "checksum": "53ee86329eb2705ba3222a5cd9e40a255488f4d6be952024ed8d60fe901ed03b",
-        "size": 116543862
+        "version": "1.109.4-1771257466",
+        "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/c3a26841a84f20dfe0850d0a5a9bd01da4f003ea/code_1.109.4-1771257466_amd64.deb",
+        "checksum": "693451149c02f72f8d346e7e5c30afb80ab1f0d175a7ecf7c3ced0900bb83507",
+        "size": 116522198
       },
-      "last_checked_at": "2026-02-16T00:09:11.667915032Z"
+      "last_checked_at": "2026-02-17T00:09:25.260738668Z"
     }
   }
 }
