@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T00:08:35.505319015Z",
+  "last_updated": "2026-02-24T00:09:31.566243085Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -10,12 +10,12 @@
       "package_name": "google-chrome-stable",
       "install_type": "deb",
       "current_release": {
-        "version": "145.0.7632.109-1",
+        "version": "145.0.7632.116-1",
         "download_url": "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb",
-        "checksum": "54dbf1ff79778338fc1e379e2b7bff1e3d3913db763efb223fca6720eab50040",
-        "size": 120868312
+        "checksum": "946328a46b692e9de0d0f5487d120008d3fac916abcd00c8b2e72d35b8aa082a",
+        "size": 120929740
       },
-      "last_checked_at": "2026-02-23T00:08:35.278035303Z"
+      "last_checked_at": "2026-02-24T00:09:31.365832128Z"
     },
     "discord": {
       "id": "discord",
@@ -26,12 +26,12 @@
       "package_name": "discord",
       "install_type": "deb",
       "current_release": {
-        "version": "0.0.125",
-        "download_url": "https://stable.dl2.discordapp.net/apps/linux/0.0.125/discord-0.0.125.deb",
-        "checksum": "ef8f1878a7cf09d8fc216f6b678951adc7f23ebd6e20e19922e8f8b6565e208f",
-        "size": 107619816
+        "version": "0.0.126",
+        "download_url": "https://stable.dl2.discordapp.net/apps/linux/0.0.126/discord-0.0.126.deb",
+        "checksum": "88eb8e92916e913624c1e13109a843737e086c7086bbccb9a2b9e8d2a7c19cc3",
+        "size": 107619864
       },
-      "last_checked_at": "2026-02-23T00:08:29.539841865Z"
+      "last_checked_at": "2026-02-24T00:09:20.62142867Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "37737e8f9dcd2fd94b0bd4de6eb4d00834a1a3858c9fc9927c44fa1798c50cbd",
         "size": 123091324
       },
-      "last_checked_at": "2026-02-23T00:08:29.133586422Z"
+      "last_checked_at": "2026-02-24T00:09:18.408543172Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "b146f22a34888bb9854bd7574fc949b00043ba38d222da13f71c180050bf289b",
         "size": 134070906
       },
-      "last_checked_at": "2026-02-23T00:08:35.504894182Z"
+      "last_checked_at": "2026-02-24T00:09:31.56579601Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "6117ea2c2f5885830bff64b6b695b2596a2613dc35301539f19ae52747181c83",
         "size": 23060404
       },
-      "last_checked_at": "2026-02-23T00:08:29.319044209Z"
+      "last_checked_at": "2026-02-24T00:09:18.561501476Z"
     },
     "vscode": {
       "id": "vscode",
@@ -95,7 +95,7 @@
         "checksum": "1c3837928eb11e52a53abf096ae5159619642668f0d88f86fb6b812610af580a",
         "size": 116527214
       },
-      "last_checked_at": "2026-02-23T00:08:32.733633576Z"
+      "last_checked_at": "2026-02-24T00:09:24.674832225Z"
     }
   }
 }
