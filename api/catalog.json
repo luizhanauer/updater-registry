@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T00:08:28.468547728Z",
+  "last_updated": "2026-02-27T00:10:17.706812328Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -15,7 +15,7 @@
         "checksum": "946328a46b692e9de0d0f5487d120008d3fac916abcd00c8b2e72d35b8aa082a",
         "size": 120929740
       },
-      "last_checked_at": "2026-02-26T00:08:28.345026703Z"
+      "last_checked_at": "2026-02-27T00:10:17.523167948Z"
     },
     "discord": {
       "id": "discord",
@@ -31,7 +31,7 @@
         "checksum": "88eb8e92916e913624c1e13109a843737e086c7086bbccb9a2b9e8d2a7c19cc3",
         "size": 107619864
       },
-      "last_checked_at": "2026-02-26T00:08:24.99131094Z"
+      "last_checked_at": "2026-02-27T00:10:09.372443506Z"
     },
     "heroic": {
       "id": "heroic",
@@ -42,12 +42,12 @@
       "package_name": "heroic",
       "install_type": "deb",
       "current_release": {
-        "version": "2.20.0",
-        "download_url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.0/Heroic-2.20.0-linux-amd64.deb",
-        "checksum": "37737e8f9dcd2fd94b0bd4de6eb4d00834a1a3858c9fc9927c44fa1798c50cbd",
-        "size": 123091324
+        "version": "2.20.1",
+        "download_url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-linux-amd64.deb",
+        "checksum": "4e9957436bc270318b00a1107910a3c7d30ad72da530af4dee5c2860866a6272",
+        "size": 137057604
       },
-      "last_checked_at": "2026-02-26T00:08:24.69320853Z"
+      "last_checked_at": "2026-02-27T00:10:08.972831047Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "b146f22a34888bb9854bd7574fc949b00043ba38d222da13f71c180050bf289b",
         "size": 134070906
       },
-      "last_checked_at": "2026-02-26T00:08:28.468067648Z"
+      "last_checked_at": "2026-02-27T00:10:17.706438538Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "6117ea2c2f5885830bff64b6b695b2596a2613dc35301539f19ae52747181c83",
         "size": 23060404
       },
-      "last_checked_at": "2026-02-26T00:08:24.80089362Z"
+      "last_checked_at": "2026-02-27T00:10:09.152035572Z"
     },
     "vscode": {
       "id": "vscode",
@@ -95,7 +95,7 @@
         "checksum": "1c3837928eb11e52a53abf096ae5159619642668f0d88f86fb6b812610af580a",
         "size": 116527214
       },
-      "last_checked_at": "2026-02-26T00:08:27.912975106Z"
+      "last_checked_at": "2026-02-27T00:10:11.04811345Z"
     }
   }
 }
