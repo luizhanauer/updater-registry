@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T00:08:11.872115105Z",
+  "last_updated": "2026-03-10T00:06:59.402416076Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -15,7 +15,7 @@
         "checksum": "c62ef1513f414af17b83af7481a12cb9b4f000dd7cd58d3c1523c3dbea4525d9",
         "size": 121241076
       },
-      "last_checked_at": "2026-03-09T00:08:11.750917702Z"
+      "last_checked_at": "2026-03-10T00:06:59.287299094Z"
     },
     "discord": {
       "id": "discord",
@@ -26,12 +26,12 @@
       "package_name": "discord",
       "install_type": "deb",
       "current_release": {
-        "version": "0.0.127",
-        "download_url": "https://stable.dl2.discordapp.net/apps/linux/0.0.127/discord-0.0.127.deb",
-        "checksum": "49d07994707973280f736917938fd538f2dac0782ad1651c1bda72aa0f23126e",
-        "size": 107631334
+        "version": "0.0.128",
+        "download_url": "https://stable.dl2.discordapp.net/apps/linux/0.0.128/discord-0.0.128.deb",
+        "checksum": "ef5b9950eb8cc5e55c7b07ee39c3b7c382a1af7f5897bc18eb51aa6f4f01f59a",
+        "size": 107632084
       },
-      "last_checked_at": "2026-03-09T00:07:55.081277596Z"
+      "last_checked_at": "2026-03-10T00:06:55.681695925Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "4e9957436bc270318b00a1107910a3c7d30ad72da530af4dee5c2860866a6272",
         "size": 137057604
       },
-      "last_checked_at": "2026-03-09T00:07:54.825903391Z"
+      "last_checked_at": "2026-03-10T00:06:55.077815864Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "b146f22a34888bb9854bd7574fc949b00043ba38d222da13f71c180050bf289b",
         "size": 134070906
       },
-      "last_checked_at": "2026-03-09T00:08:11.871590116Z"
+      "last_checked_at": "2026-03-10T00:06:59.401944231Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "0da46d7a7b252282ded5323f74319a10c1fa7271001d3b297b3def415c8c8f04",
         "size": 23130764
       },
-      "last_checked_at": "2026-03-09T00:07:54.972903203Z"
+      "last_checked_at": "2026-03-10T00:06:55.209961025Z"
     },
     "vscode": {
       "id": "vscode",
@@ -90,12 +90,12 @@
       "package_name": "code",
       "install_type": "deb",
       "current_release": {
-        "version": "1.110.1-1772839366",
-        "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/61b3d0ab13be7dda2389f1d3e60a119c7f660cc3/code_1.110.1-1772839366_amd64.deb",
-        "checksum": "3ac2331429e21b4e889de096a131d1fd0370ee0b24ea63e65434d1ee5537e251",
-        "size": 121939226
+        "version": "1.111.0-1772846623",
+        "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/ce099c1ed25d9eb3076c11e4a280f3eb52b4fbeb/code_1.111.0-1772846623_amd64.deb",
+        "checksum": "2b8b1a5b9c6fc14bd49920ce45c1b65798ab01dc3abab7aefd31102286e50ac4",
+        "size": 121978886
       },
-      "last_checked_at": "2026-03-09T00:07:56.725540291Z"
+      "last_checked_at": "2026-03-10T00:06:56.57325465Z"
     }
   }
 }
