@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T00:10:42.66486158Z",
+  "last_updated": "2026-03-23T18:17:18.31916678Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -15,7 +15,7 @@
         "checksum": "6ff0cb5dbbc76e35161722535cba0bd08e9aff7af561a568c0daabde84348a60",
         "size": 127507368
       },
-      "last_checked_at": "2026-03-23T00:10:42.450911287Z"
+      "last_checked_at": "2026-03-23T18:17:18.179608197Z"
     },
     "discord": {
       "id": "discord",
@@ -26,12 +26,12 @@
       "package_name": "discord",
       "install_type": "deb",
       "current_release": {
-        "version": "0.0.129",
-        "download_url": "https://stable.dl2.discordapp.net/apps/linux/0.0.129/discord-0.0.129.deb",
-        "checksum": "2d036d8530c81338791fceb81770f995bc95c434c0fe388ad77629ac0714b321",
-        "size": 107599460
+        "version": "0.0.130",
+        "download_url": "https://stable.dl2.discordapp.net/apps/linux/0.0.130/discord-0.0.130.deb",
+        "checksum": "224cef9fdee270f8ed25d67988e41c9e23d175414d2585877e6d21196a20971b",
+        "size": 107300354
       },
-      "last_checked_at": "2026-03-23T00:10:36.67955896Z"
+      "last_checked_at": "2026-03-23T18:17:15.510175849Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "4e9957436bc270318b00a1107910a3c7d30ad72da530af4dee5c2860866a6272",
         "size": 137057604
       },
-      "last_checked_at": "2026-03-23T00:10:36.313338379Z"
+      "last_checked_at": "2026-03-23T18:17:12.458215247Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "89fa7657c56ffcc302ba75956eef1e7efaedd0e66ae2e2bd79170604d6c68800",
         "size": 134231916
       },
-      "last_checked_at": "2026-03-23T00:10:42.664354048Z"
+      "last_checked_at": "2026-03-23T18:17:18.318693527Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "0da46d7a7b252282ded5323f74319a10c1fa7271001d3b297b3def415c8c8f04",
         "size": 23130764
       },
-      "last_checked_at": "2026-03-23T00:10:36.511866747Z"
+      "last_checked_at": "2026-03-23T18:17:12.628113798Z"
     },
     "vscode": {
       "id": "vscode",
@@ -95,7 +95,7 @@
         "checksum": "0caff3db6dfa18da1dde4bcaf04d2f5b98c7879a33d82ba4fd4a95f37fb6c3b5",
         "size": 122193858
       },
-      "last_checked_at": "2026-03-23T00:10:37.91944911Z"
+      "last_checked_at": "2026-03-23T18:17:17.626489579Z"
     }
   }
 }
