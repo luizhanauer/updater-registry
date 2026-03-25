@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T00:08:44.896044851Z",
+  "last_updated": "2026-03-25T00:10:05.582293844Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -15,7 +15,7 @@
         "checksum": "f6dd8715a3f10f0cd37b2e7b8831a96359ea856c747da222d3b2623ae651b374",
         "size": 127723048
       },
-      "last_checked_at": "2026-03-24T00:08:44.756776639Z"
+      "last_checked_at": "2026-03-25T00:10:05.436881721Z"
     },
     "discord": {
       "id": "discord",
@@ -31,7 +31,7 @@
         "checksum": "224cef9fdee270f8ed25d67988e41c9e23d175414d2585877e6d21196a20971b",
         "size": 107300354
       },
-      "last_checked_at": "2026-03-24T00:08:39.924131749Z"
+      "last_checked_at": "2026-03-25T00:09:58.410709671Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "4e9957436bc270318b00a1107910a3c7d30ad72da530af4dee5c2860866a6272",
         "size": 137057604
       },
-      "last_checked_at": "2026-03-24T00:08:39.583128313Z"
+      "last_checked_at": "2026-03-25T00:09:58.124977903Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "89fa7657c56ffcc302ba75956eef1e7efaedd0e66ae2e2bd79170604d6c68800",
         "size": 134231916
       },
-      "last_checked_at": "2026-03-24T00:08:44.895566501Z"
+      "last_checked_at": "2026-03-25T00:10:05.581817896Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "0da46d7a7b252282ded5323f74319a10c1fa7271001d3b297b3def415c8c8f04",
         "size": 23130764
       },
-      "last_checked_at": "2026-03-24T00:08:39.707878971Z"
+      "last_checked_at": "2026-03-25T00:09:58.234174123Z"
     },
     "vscode": {
       "id": "vscode",
@@ -95,7 +95,7 @@
         "checksum": "0caff3db6dfa18da1dde4bcaf04d2f5b98c7879a33d82ba4fd4a95f37fb6c3b5",
         "size": 122193858
       },
-      "last_checked_at": "2026-03-24T00:08:42.600496599Z"
+      "last_checked_at": "2026-03-25T00:10:05.098173052Z"
     }
   }
 }
