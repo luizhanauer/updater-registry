@@ -7,10 +7,10 @@
   "package_name": "google-chrome-stable",
   "install_type": "deb",
   "current_release": {
-    "version": "146.0.7680.177-1",
+    "version": "147.0.7727.55-1",
     "download_url": "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb",
-    "checksum": "4dbd78d88a1e69a6036ba8e8adb99fca808790e23b2ea92d8610494ad7f57328",
-    "size": 127819904
+    "checksum": "377b972c143e90cb6d4ca31a5a28ed1398475d47670e8f7b15e4ba11a42cbb28",
+    "size": 125064328
   },
-  "last_checked_at": "2026-04-07T00:12:57.670997078Z"
+  "last_checked_at": "2026-04-07T21:09:32.279039369Z"
 }
