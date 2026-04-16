@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T00:17:25.80207921Z",
+  "last_updated": "2026-04-16T00:17:35.955650901Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -10,12 +10,12 @@
       "package_name": "google-chrome-stable",
       "install_type": "deb",
       "current_release": {
-        "version": "147.0.7727.55-1",
+        "version": "147.0.7727.101-1",
         "download_url": "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb",
-        "checksum": "377b972c143e90cb6d4ca31a5a28ed1398475d47670e8f7b15e4ba11a42cbb28",
-        "size": 125064328
+        "checksum": "554e3571790207f254d9ad5b5c718c41517c64af7967b14123afa4e728cf6fcd",
+        "size": 124916800
       },
-      "last_checked_at": "2026-04-15T00:17:25.646595326Z"
+      "last_checked_at": "2026-04-16T00:17:35.83583145Z"
     },
     "discord": {
       "id": "discord",
@@ -31,7 +31,7 @@
         "checksum": "57c92ee600445732d93450175349b6c57c687818c9ab4898279bff31020822d3",
         "size": 107298960
       },
-      "last_checked_at": "2026-04-15T00:17:20.98389624Z"
+      "last_checked_at": "2026-04-16T00:17:30.136604799Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "4e9957436bc270318b00a1107910a3c7d30ad72da530af4dee5c2860866a6272",
         "size": 137057604
       },
-      "last_checked_at": "2026-04-15T00:17:20.659404908Z"
+      "last_checked_at": "2026-04-16T00:17:29.870762791Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "c69b5846e2eef622e902beb3606d614592735b4aac3b2a3c07bb7a1a5f52b9c4",
         "size": 134236436
       },
-      "last_checked_at": "2026-04-15T00:17:25.801645378Z"
+      "last_checked_at": "2026-04-16T00:17:35.955340128Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "0da46d7a7b252282ded5323f74319a10c1fa7271001d3b297b3def415c8c8f04",
         "size": 23130764
       },
-      "last_checked_at": "2026-04-15T00:17:20.789693146Z"
+      "last_checked_at": "2026-04-16T00:17:29.997973325Z"
     },
     "vscode": {
       "id": "vscode",
@@ -90,12 +90,12 @@
       "package_name": "code",
       "install_type": "deb",
       "current_release": {
-        "version": "1.115.0-1775600353",
-        "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/41dd792b5e652393e7787322889ed5fdc58bd75b/code_1.115.0-1775600353_amd64.deb",
-        "checksum": "54457e868d2d0eca02919e787d26a9614520589145e10d3aac62911a8ffd8b00",
-        "size": 132022766
+        "version": "1.116.0-1776214182",
+        "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/560a9dba96f961efea7b1612916f89e5d5d4d679/code_1.116.0-1776214182_amd64.deb",
+        "checksum": "cb23885bdd830b83f64f259395ce5264d232666274ac999ab2de0f4e8f7995a2",
+        "size": 148466770
       },
-      "last_checked_at": "2026-04-15T00:17:22.300336209Z"
+      "last_checked_at": "2026-04-16T00:17:32.077410957Z"
     }
   }
 }
