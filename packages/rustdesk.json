@@ -7,10 +7,10 @@
   "package_name": "rustdesk",
   "install_type": "deb",
   "current_release": {
-    "version": "1.4.6",
-    "download_url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.6/rustdesk-1.4.6-x86_64.deb",
-    "checksum": "0da46d7a7b252282ded5323f74319a10c1fa7271001d3b297b3def415c8c8f04",
-    "size": 23130764
+    "version": "1.4.7",
+    "download_url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.7/rustdesk-1.4.7-x86_64.deb",
+    "checksum": "12f61bb5ceb10a708089903357bd1f98dcb618bd0ea56ec568aaf1713a38070a",
+    "size": 23358108
   },
-  "last_checked_at": "2026-06-02T00:31:59.181782654Z"
+  "last_checked_at": "2026-06-03T00:36:36.449457312Z"
 }

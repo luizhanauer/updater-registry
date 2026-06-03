@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T00:32:03.42268648Z",
+  "last_updated": "2026-06-03T00:36:39.11725552Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -10,12 +10,12 @@
       "package_name": "google-chrome-stable",
       "install_type": "deb",
       "current_release": {
-        "version": "148.0.7778.215-1",
+        "version": "149.0.7827.53-1",
         "download_url": "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb",
-        "checksum": "23228ca2d8e0c0b27d00a025fa013ce8359dd060ad428063bdb6ef0626142d24",
-        "size": 129833324
+        "checksum": "8aa34d8c9cbd5a37b98dca49ad0607bbf819a6d681c19834599cdb65329498f8",
+        "size": 130359968
       },
-      "last_checked_at": "2026-06-02T00:32:03.198016093Z"
+      "last_checked_at": "2026-06-03T00:36:38.918856846Z"
     },
     "discord": {
       "id": "discord",
@@ -31,7 +31,7 @@
         "checksum": "80308dd6e26802a343986e55ea377933b571a9ded4bd6e9158570a1f038577cb",
         "size": 2177818
       },
-      "last_checked_at": "2026-06-02T00:31:59.566928038Z"
+      "last_checked_at": "2026-06-03T00:36:36.55421652Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "4c8585ad7c7a76bd3c8058aa995b9064f457603f3b6afbd9114433cf4af7ecd2",
         "size": 143079232
       },
-      "last_checked_at": "2026-06-02T00:31:58.956605043Z"
+      "last_checked_at": "2026-06-03T00:36:36.066439738Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "a3bb1b0176604dad9e22710e057f0fdd76e8afb600e0e1914c30464ae49908e8",
         "size": 134236418
       },
-      "last_checked_at": "2026-06-02T00:32:03.42217793Z"
+      "last_checked_at": "2026-06-03T00:36:39.116788818Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -74,12 +74,12 @@
       "package_name": "rustdesk",
       "install_type": "deb",
       "current_release": {
-        "version": "1.4.6",
-        "download_url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.6/rustdesk-1.4.6-x86_64.deb",
-        "checksum": "0da46d7a7b252282ded5323f74319a10c1fa7271001d3b297b3def415c8c8f04",
-        "size": 23130764
+        "version": "1.4.7",
+        "download_url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.7/rustdesk-1.4.7-x86_64.deb",
+        "checksum": "12f61bb5ceb10a708089903357bd1f98dcb618bd0ea56ec568aaf1713a38070a",
+        "size": 23358108
       },
-      "last_checked_at": "2026-06-02T00:31:59.181782654Z"
+      "last_checked_at": "2026-06-03T00:36:36.449457312Z"
     },
     "vscode": {
       "id": "vscode",
@@ -95,7 +95,7 @@
         "checksum": "44efd0aa505f4dc39e1cda51a52e36486ffb306af2835bc16de69aec6c1a23c6",
         "size": 232383686
       },
-      "last_checked_at": "2026-06-02T00:32:02.60592037Z"
+      "last_checked_at": "2026-06-03T00:36:38.312727188Z"
     }
   }
 }
