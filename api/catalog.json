@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T00:30:09.180880288Z",
+  "last_updated": "2026-06-23T00:28:51.972269144Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -15,7 +15,7 @@
         "checksum": "8343c77f2088a4e4366f0dfe4e68aefa3b7e79326cd2ca3bd7eb63c611f06556",
         "size": 130375008
       },
-      "last_checked_at": "2026-06-21T00:30:08.788655383Z"
+      "last_checked_at": "2026-06-23T00:28:51.709789457Z"
     },
     "discord": {
       "id": "discord",
@@ -26,12 +26,12 @@
       "package_name": "discord",
       "install_type": "deb",
       "current_release": {
-        "version": "1.0.143",
-        "download_url": "https://stable.dl2.discordapp.net/apps/linux/1.0.143/discord-1.0.143.deb",
-        "checksum": "466443bbda724766c6dee376041a607fc5cbdda40efd9019c108a06b0b15f5ba",
-        "size": 2177806
+        "version": "1.0.144",
+        "download_url": "https://stable.dl2.discordapp.net/apps/linux/1.0.144/discord-1.0.144.deb",
+        "checksum": "1b7c7628bac167c20a36001a7fef8d61076f59a8f7bab1e00b8ee9cb99c4e196",
+        "size": 2177946
       },
-      "last_checked_at": "2026-06-21T00:30:06.531265281Z"
+      "last_checked_at": "2026-06-23T00:28:46.869285332Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "4c8585ad7c7a76bd3c8058aa995b9064f457603f3b6afbd9114433cf4af7ecd2",
         "size": 143079232
       },
-      "last_checked_at": "2026-06-21T00:30:06.101906161Z"
+      "last_checked_at": "2026-06-23T00:28:46.071070148Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "a3bb1b0176604dad9e22710e057f0fdd76e8afb600e0e1914c30464ae49908e8",
         "size": 134236418
       },
-      "last_checked_at": "2026-06-21T00:30:09.180316755Z"
+      "last_checked_at": "2026-06-23T00:28:51.9717739Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -74,12 +74,12 @@
       "package_name": "rustdesk",
       "install_type": "deb",
       "current_release": {
-        "version": "1.4.7",
-        "download_url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.7/rustdesk-1.4.7-x86_64.deb",
-        "checksum": "12f61bb5ceb10a708089903357bd1f98dcb618bd0ea56ec568aaf1713a38070a",
-        "size": 23358108
+        "version": "1.4.8",
+        "download_url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.8/rustdesk-1.4.8-x86_64.deb",
+        "checksum": "c426f0a50ce141be3babf653ee920f43c30cf5159deb7d46b0a58ee07d5f547e",
+        "size": 23358752
       },
-      "last_checked_at": "2026-06-21T00:30:06.389995663Z"
+      "last_checked_at": "2026-06-23T00:28:46.557711894Z"
     },
     "vscode": {
       "id": "vscode",
@@ -95,7 +95,7 @@
         "checksum": "f61d0a519d0cf1a29dc75dd0bef540982aa631363f40525bee7396737a079aa1",
         "size": 184323590
       },
-      "last_checked_at": "2026-06-21T00:30:07.986533631Z"
+      "last_checked_at": "2026-06-23T00:28:49.770587652Z"
     }
   }
 }
