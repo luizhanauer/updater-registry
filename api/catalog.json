@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T01:27:47.843622727Z",
+  "last_updated": "2026-07-22T01:26:42.617961438Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -10,12 +10,12 @@
       "package_name": "google-chrome-stable",
       "install_type": "deb",
       "current_release": {
-        "version": "150.0.7871.128-1",
+        "version": "150.0.7871.181-1",
         "download_url": "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb",
-        "checksum": "83ed59c85878ebb8fa53915ebe7066cafc58d1c04c1c95449486e6f9d99a1efb",
-        "size": 133735004
+        "checksum": "fec50905f7b1235a440977a833476e0162874f5ca79e506cdf40b71af64d92f4",
+        "size": 133533368
       },
-      "last_checked_at": "2026-07-21T01:27:47.688341289Z"
+      "last_checked_at": "2026-07-22T01:26:41.443398405Z"
     },
     "discord": {
       "id": "discord",
@@ -31,7 +31,7 @@
         "checksum": "32c82b38fca50e0d2dce33c93d9d5da4fd772507d980eeb8916338ff38a9b027",
         "size": 2178680
       },
-      "last_checked_at": "2026-07-21T01:27:43.847720547Z"
+      "last_checked_at": "2026-07-22T01:26:34.905296653Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "4c8585ad7c7a76bd3c8058aa995b9064f457603f3b6afbd9114433cf4af7ecd2",
         "size": 143079232
       },
-      "last_checked_at": "2026-07-21T01:27:43.445061268Z"
+      "last_checked_at": "2026-07-22T01:26:34.679637482Z"
     },
     "obs": {
       "id": "obs",
@@ -58,12 +58,12 @@
       "package_name": "obs-studio",
       "install_type": "deb",
       "current_release": {
-        "version": "32.1.2",
-        "download_url": "https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Ubuntu-24.04-x86_64.deb",
-        "checksum": "a3bb1b0176604dad9e22710e057f0fdd76e8afb600e0e1914c30464ae49908e8",
-        "size": 134236418
+        "version": "32.2.0",
+        "download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.0/OBS-Studio-32.2.0-Ubuntu-24.04-x86_64.deb",
+        "checksum": "4b691bef1eabba502e6d7592f87d09049af56d00d83f06087a7b447cc7c19d98",
+        "size": 134324376
       },
-      "last_checked_at": "2026-07-21T01:27:47.84314305Z"
+      "last_checked_at": "2026-07-22T01:26:42.617515649Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "7244ba47c40e804172044bfbe659467c54ce46554c98e78c8c0406f1d612fda3",
         "size": 23375776
       },
-      "last_checked_at": "2026-07-21T01:27:43.590547444Z"
+      "last_checked_at": "2026-07-22T01:26:34.828287308Z"
     },
     "vscode": {
       "id": "vscode",
@@ -95,7 +95,7 @@
         "checksum": "0cf912efe73db485839bda45cdcfe2ba35af3ad5876cc9786d9b04da2eb9ea51",
         "size": 213670802
       },
-      "last_checked_at": "2026-07-21T01:27:46.049945147Z"
+      "last_checked_at": "2026-07-22T01:26:39.958192342Z"
     }
   }
 }

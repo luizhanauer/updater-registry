@@ -7,10 +7,10 @@
   "package_name": "obs-studio",
   "install_type": "deb",
   "current_release": {
-    "version": "32.1.2",
-    "download_url": "https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Ubuntu-24.04-x86_64.deb",
-    "checksum": "a3bb1b0176604dad9e22710e057f0fdd76e8afb600e0e1914c30464ae49908e8",
-    "size": 134236418
+    "version": "32.2.0",
+    "download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.0/OBS-Studio-32.2.0-Ubuntu-24.04-x86_64.deb",
+    "checksum": "4b691bef1eabba502e6d7592f87d09049af56d00d83f06087a7b447cc7c19d98",
+    "size": 134324376
   },
-  "last_checked_at": "2026-07-21T01:27:47.84314305Z"
+  "last_checked_at": "2026-07-22T01:26:42.617515649Z"
 }
