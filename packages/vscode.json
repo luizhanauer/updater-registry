@@ -7,10 +7,10 @@
   "package_name": "code",
   "install_type": "deb",
   "current_release": {
-    "version": "1.129.1-1784303641",
-    "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/8a7abeba6e03ea3af87bfbce9a1b7e48fed567b8/code_1.129.1-1784303641_amd64.deb",
-    "checksum": "0cf912efe73db485839bda45cdcfe2ba35af3ad5876cc9786d9b04da2eb9ea51",
-    "size": 213670802
+    "version": "1.130.0-1784734578",
+    "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/1b6a188127eeaf9194f945eb6eb89a657e93c54c/code_1.130.0-1784734578_amd64.deb",
+    "checksum": "63835d9a09ba93c88fb57d35fad0f4c28788221285c7120281ac53ff2deaf183",
+    "size": 242243030
   },
-  "last_checked_at": "2026-07-22T01:26:39.958192342Z"
+  "last_checked_at": "2026-07-23T01:46:11.200800088Z"
 }
