@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T01:42:16.814054558Z",
+  "last_updated": "2026-07-25T01:42:09.358353796Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -15,7 +15,7 @@
         "checksum": "4193e00b6d5d5969ee63f7a69596868f546aa0e8cb077b3e0bf9cc1e2c719d00",
         "size": 133561688
       },
-      "last_checked_at": "2026-07-24T01:42:16.608906473Z"
+      "last_checked_at": "2026-07-25T01:42:06.583018323Z"
     },
     "discord": {
       "id": "discord",
@@ -31,7 +31,7 @@
         "checksum": "32c82b38fca50e0d2dce33c93d9d5da4fd772507d980eeb8916338ff38a9b027",
         "size": 2178680
       },
-      "last_checked_at": "2026-07-24T01:42:10.448400158Z"
+      "last_checked_at": "2026-07-25T01:42:02.429162104Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "4c8585ad7c7a76bd3c8058aa995b9064f457603f3b6afbd9114433cf4af7ecd2",
         "size": 143079232
       },
-      "last_checked_at": "2026-07-24T01:42:09.889745061Z"
+      "last_checked_at": "2026-07-25T01:42:01.89141776Z"
     },
     "obs": {
       "id": "obs",
@@ -58,12 +58,12 @@
       "package_name": "obs-studio",
       "install_type": "deb",
       "current_release": {
-        "version": "32.2.0",
-        "download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.0/OBS-Studio-32.2.0-Ubuntu-24.04-x86_64.deb",
-        "checksum": "4b691bef1eabba502e6d7592f87d09049af56d00d83f06087a7b447cc7c19d98",
-        "size": 134324376
+        "version": "32.2.1",
+        "download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.1/OBS-Studio-32.2.1-Ubuntu-24.04-x86_64.deb",
+        "checksum": "f3ce385c9157a33db7219953dc672ae566aefe4d1ac1417fff1e2114de3316b5",
+        "size": 134324444
       },
-      "last_checked_at": "2026-07-24T01:42:16.813681859Z"
+      "last_checked_at": "2026-07-25T01:42:09.357941856Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "7244ba47c40e804172044bfbe659467c54ce46554c98e78c8c0406f1d612fda3",
         "size": 23375776
       },
-      "last_checked_at": "2026-07-24T01:42:10.115581208Z"
+      "last_checked_at": "2026-07-25T01:42:02.097948649Z"
     },
     "vscode": {
       "id": "vscode",
@@ -95,7 +95,7 @@
         "checksum": "63835d9a09ba93c88fb57d35fad0f4c28788221285c7120281ac53ff2deaf183",
         "size": 242243030
       },
-      "last_checked_at": "2026-07-24T01:42:14.978224624Z"
+      "last_checked_at": "2026-07-25T01:42:04.994908393Z"
     }
   }
 }
