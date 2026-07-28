@@ -7,10 +7,10 @@
   "package_name": "discord",
   "install_type": "deb",
   "current_release": {
-    "version": "1.0.150",
-    "download_url": "https://stable.dl2.discordapp.net/apps/linux/1.0.150/discord-1.0.150.deb",
-    "checksum": "32c82b38fca50e0d2dce33c93d9d5da4fd772507d980eeb8916338ff38a9b027",
-    "size": 2178680
+    "version": "1.0.151",
+    "download_url": "https://stable.dl2.discordapp.net/apps/linux/1.0.151/discord-1.0.151.deb",
+    "checksum": "469a6460dad6c2738b358f3ebf44a5210f0298f795287419b93b0724e8e08bfe",
+    "size": 2178788
   },
-  "last_checked_at": "2026-07-27T01:51:39.570657569Z"
+  "last_checked_at": "2026-07-28T01:26:08.296828203Z"
 }
