@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T01:00:09.548102899Z",
+  "last_updated": "2026-08-15T00:35:49.924743338Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -15,7 +15,7 @@
         "checksum": "e6dabf044cf9cd0279cfe86efa431682c18bfc06d06339ce055aaa87ae871727",
         "size": 140080344
       },
-      "last_checked_at": "2026-08-14T01:00:09.391707725Z"
+      "last_checked_at": "2026-08-15T00:35:45.967350551Z"
     },
     "discord": {
       "id": "discord",
@@ -26,12 +26,12 @@
       "package_name": "discord",
       "install_type": "deb",
       "current_release": {
-        "version": "1.0.153",
-        "download_url": "https://stable.dl2.discordapp.net/apps/linux/1.0.153/discord-1.0.153.deb",
-        "checksum": "c3f05c71ba97a258d45f870b2e9a9067ea077681fcd43e64dac3d992dea4ecff",
+        "version": "1.0.154",
+        "download_url": "https://stable.dl2.discordapp.net/apps/linux/1.0.154/discord-1.0.154.deb",
+        "checksum": "ba1aef3fdcfe9f102685eedeff7d7e357a1e6eefd2ed5bdce77cdbda31810428",
         "size": 2178788
       },
-      "last_checked_at": "2026-08-14T01:00:00.745587622Z"
+      "last_checked_at": "2026-08-15T00:35:34.767768411Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "2f3bdb663b48144b7804c30724765dc4bdc76357b7cd5f35a5dadf3030f6a948",
         "size": 150062752
       },
-      "last_checked_at": "2026-08-14T01:00:00.415430621Z"
+      "last_checked_at": "2026-08-15T00:35:34.270104864Z"
     },
     "obs": {
       "id": "obs",
@@ -58,12 +58,12 @@
       "package_name": "obs-studio",
       "install_type": "deb",
       "current_release": {
-        "version": "32.2.1",
-        "download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.1/OBS-Studio-32.2.1-Ubuntu-24.04-x86_64.deb",
-        "checksum": "f3ce385c9157a33db7219953dc672ae566aefe4d1ac1417fff1e2114de3316b5",
-        "size": 134324444
+        "version": "32.2.2",
+        "download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Ubuntu-24.04-x86_64.deb",
+        "checksum": "b6557ca2059287210332accc94c267094050489cffffc5c832e746e3a418dab0",
+        "size": 134324516
       },
-      "last_checked_at": "2026-08-14T01:00:09.547732432Z"
+      "last_checked_at": "2026-08-15T00:35:49.924286835Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "7244ba47c40e804172044bfbe659467c54ce46554c98e78c8c0406f1d612fda3",
         "size": 23375776
       },
-      "last_checked_at": "2026-08-14T01:00:00.585305847Z"
+      "last_checked_at": "2026-08-15T00:35:34.480607497Z"
     },
     "vscode": {
       "id": "vscode",
@@ -95,7 +95,7 @@
         "checksum": "d064e87e22f556b8a91e1354b5227e340597324e52886dbb288551596b00e34a",
         "size": 239359310
       },
-      "last_checked_at": "2026-08-14T01:00:08.60120348Z"
+      "last_checked_at": "2026-08-15T00:35:44.902360715Z"
     }
   }
 }
