@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T02:12:02.096730217Z",
+  "last_updated": "2026-09-15T02:18:14.471136446Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -15,7 +15,7 @@
         "checksum": "9bb44e33031c2f2857cf36b4343051a12f93058e4b781e3c76313df87f6c8d32",
         "size": 141931876
       },
-      "last_checked_at": "2026-09-14T02:12:01.913487358Z"
+      "last_checked_at": "2026-09-15T02:18:14.357615772Z"
     },
     "discord": {
       "id": "discord",
@@ -26,12 +26,12 @@
       "package_name": "discord",
       "install_type": "deb",
       "current_release": {
-        "version": "1.0.157",
-        "download_url": "https://stable.dl2.discordapp.net/apps/linux/1.0.157/discord-1.0.157.deb",
-        "checksum": "ed8773b0b85838dc8e18ec2317ac55bdc6fc7b6af0cc46109ceba002764ffbaa",
-        "size": 2179722
+        "version": "1.0.158",
+        "download_url": "https://stable.dl2.discordapp.net/apps/linux/1.0.158/discord-1.0.158.deb",
+        "checksum": "022b1e269bcd1523542fb35b51ae840fdb994d96a8a2245f1c54542b545b2060",
+        "size": 2179726
       },
-      "last_checked_at": "2026-09-14T02:11:55.200209068Z"
+      "last_checked_at": "2026-09-15T02:18:11.400949881Z"
     },
     "heroic": {
       "id": "heroic",
@@ -42,12 +42,12 @@
       "package_name": "heroic",
       "install_type": "deb",
       "current_release": {
-        "version": "2.22.1",
-        "download_url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.1/Heroic-2.22.1-linux-amd64.deb",
-        "checksum": "2f3bdb663b48144b7804c30724765dc4bdc76357b7cd5f35a5dadf3030f6a948",
-        "size": 150062752
+        "version": "2.22.2",
+        "download_url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.2/Heroic-2.22.2-linux-amd64.deb",
+        "checksum": "7524871e7ec3466085e75594d0ecc901b21fb8193434e58fd2fc6ae44732043a",
+        "size": 127528308
       },
-      "last_checked_at": "2026-09-14T02:11:54.86684364Z"
+      "last_checked_at": "2026-09-15T02:18:10.936353279Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "b6557ca2059287210332accc94c267094050489cffffc5c832e746e3a418dab0",
         "size": 134324516
       },
-      "last_checked_at": "2026-09-14T02:12:02.096284409Z"
+      "last_checked_at": "2026-09-15T02:18:14.470675345Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "7244ba47c40e804172044bfbe659467c54ce46554c98e78c8c0406f1d612fda3",
         "size": 23375776
       },
-      "last_checked_at": "2026-09-14T02:11:55.066884694Z"
+      "last_checked_at": "2026-09-15T02:18:11.043412581Z"
     },
     "vscode": {
       "id": "vscode",
@@ -95,7 +95,7 @@
         "checksum": "fd4dff72c44598d3acb885b448256f5d82cf53f59538d97fc7d3c8d8d9d574d3",
         "size": 237130638
       },
-      "last_checked_at": "2026-09-14T02:12:00.892704989Z"
+      "last_checked_at": "2026-09-15T02:18:13.586206804Z"
     }
   }
 }

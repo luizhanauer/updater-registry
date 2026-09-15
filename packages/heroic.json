@@ -7,10 +7,10 @@
   "package_name": "heroic",
   "install_type": "deb",
   "current_release": {
-    "version": "2.22.1",
-    "download_url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.1/Heroic-2.22.1-linux-amd64.deb",
-    "checksum": "2f3bdb663b48144b7804c30724765dc4bdc76357b7cd5f35a5dadf3030f6a948",
-    "size": 150062752
+    "version": "2.22.2",
+    "download_url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.2/Heroic-2.22.2-linux-amd64.deb",
+    "checksum": "7524871e7ec3466085e75594d0ecc901b21fb8193434e58fd2fc6ae44732043a",
+    "size": 127528308
   },
-  "last_checked_at": "2026-09-14T02:11:54.86684364Z"
+  "last_checked_at": "2026-09-15T02:18:10.936353279Z"
 }
