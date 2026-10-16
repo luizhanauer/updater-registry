@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T02:14:07.207636253Z",
+  "last_updated": "2026-10-16T02:05:12.655620818Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -10,12 +10,12 @@
       "package_name": "google-chrome-stable",
       "install_type": "deb",
       "current_release": {
-        "version": "155.0.8059.79-1",
+        "version": "155.0.8059.84-1",
         "download_url": "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb",
-        "checksum": "b7726070ca707965e9a17b38e4f15ba283bf6f65c339626c092862af7b19badc",
-        "size": 143638568
+        "checksum": "8fbd2ae69cdf7ee98b7513c3396a7b5e06f974f8625fdd590df3091dd0c3e9de",
+        "size": 144080360
       },
-      "last_checked_at": "2026-10-15T02:14:06.957746085Z"
+      "last_checked_at": "2026-10-16T02:05:12.505842147Z"
     },
     "discord": {
       "id": "discord",
@@ -31,7 +31,7 @@
         "checksum": "e7f346569784ef47eaa530c058d810bef686c7c063efcee6493d56d138f139cc",
         "size": 2168622
       },
-      "last_checked_at": "2026-10-15T02:14:03.292228412Z"
+      "last_checked_at": "2026-10-16T02:05:08.835040759Z"
     },
     "heroic": {
       "id": "heroic",
@@ -42,12 +42,12 @@
       "package_name": "heroic",
       "install_type": "deb",
       "current_release": {
-        "version": "2.22.3",
-        "download_url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.3/Heroic-2.22.3-linux-amd64.deb",
-        "checksum": "f89eed7e0eb900fbe3051edfedbe7532db14328241cbf8c1fb766462dfc0b849",
-        "size": 127528508
+        "version": "2.22.4",
+        "download_url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/Heroic-2.22.4-linux-amd64.deb",
+        "checksum": "46aa36778f16d98a86823fc42fcb7ef47efab346ff19380165201aa373ebf70a",
+        "size": 127567920
       },
-      "last_checked_at": "2026-10-15T02:14:02.91892871Z"
+      "last_checked_at": "2026-10-16T02:05:08.453330196Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "b6557ca2059287210332accc94c267094050489cffffc5c832e746e3a418dab0",
         "size": 134324516
       },
-      "last_checked_at": "2026-10-15T02:14:07.207106684Z"
+      "last_checked_at": "2026-10-16T02:05:12.655066552Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "4e2b9701d25a7ef373f3d09bda584a37d6902f97a6ab15f2e86d4a5783e2a0ec",
         "size": 24940796
       },
-      "last_checked_at": "2026-10-15T02:14:03.069607686Z"
+      "last_checked_at": "2026-10-16T02:05:08.62052068Z"
     },
     "vscode": {
       "id": "vscode",
@@ -90,12 +90,12 @@
       "package_name": "code",
       "install_type": "deb",
       "current_release": {
-        "version": "1.141.2-1791980535",
-        "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/16507d91be0dc1ce4f94c04d4d0430210b8685d9/code_1.141.2-1791980535_amd64.deb",
-        "checksum": "d09b25a39b41b35e514b276ec551f73df4fea9197a14b4f365ca72fb139211cc",
-        "size": 249187782
+        "version": "1.142.0-1792035033",
+        "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/6d62b1d5dace93a33b3a6d3eca1317bd5e15bcb1/code_1.142.0-1792035033_amd64.deb",
+        "checksum": "33454f7d2d7bc79a5925b3e794d106fb454a10c6a635ddfeb908a63659a44ec5",
+        "size": 239610838
       },
-      "last_checked_at": "2026-10-15T02:14:06.019646575Z"
+      "last_checked_at": "2026-10-16T02:05:11.709698653Z"
     }
   }
 }
