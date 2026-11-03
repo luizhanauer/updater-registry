@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T03:12:15.469124596Z",
+  "last_updated": "2026-11-03T04:27:56.825568362Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -15,7 +15,7 @@
         "checksum": "be1a1e161419f5c8272432f6860912550d8e29985e925913fa800493a0d0c955",
         "size": 145633696
       },
-      "last_checked_at": "2026-11-02T03:12:15.270990633Z"
+      "last_checked_at": "2026-11-03T04:27:56.669757718Z"
     },
     "discord": {
       "id": "discord",
@@ -31,7 +31,7 @@
         "checksum": "93d43ad090825b9edcacfb3841506ea51e7040c60d93a9e377d0caca547bea28",
         "size": 2387236
       },
-      "last_checked_at": "2026-11-02T03:12:08.560075073Z"
+      "last_checked_at": "2026-11-03T04:27:53.073388025Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "46aa36778f16d98a86823fc42fcb7ef47efab346ff19380165201aa373ebf70a",
         "size": 127567920
       },
-      "last_checked_at": "2026-11-02T03:12:08.135867595Z"
+      "last_checked_at": "2026-11-03T04:27:52.434083393Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "a9f062057576074439e6467f2716e3bbed6a0edab6ebf2c2f9595a3d2f1dc57f",
         "size": 159354224
       },
-      "last_checked_at": "2026-11-02T03:12:15.468584156Z"
+      "last_checked_at": "2026-11-03T04:27:56.825075115Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -74,12 +74,12 @@
       "package_name": "rustdesk",
       "install_type": "deb",
       "current_release": {
-        "version": "1.5.0",
-        "download_url": "https://github.com/rustdesk/rustdesk/releases/download/1.5.0/rustdesk-1.5.0-x86_64.deb",
-        "checksum": "4e2b9701d25a7ef373f3d09bda584a37d6902f97a6ab15f2e86d4a5783e2a0ec",
-        "size": 24940796
+        "version": "1.5.1",
+        "download_url": "https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-x86_64.deb",
+        "checksum": "b5d682ad90cb7571ecbdbf26eef58d3c4514e726a74ef6d08ce3f0b114ef0bd9",
+        "size": 25337156
       },
-      "last_checked_at": "2026-11-02T03:12:08.327894592Z"
+      "last_checked_at": "2026-11-03T04:27:52.830341659Z"
     },
     "vscode": {
       "id": "vscode",
@@ -90,12 +90,12 @@
       "package_name": "code",
       "install_type": "deb",
       "current_release": {
-        "version": "1.144.0-1793133881",
-        "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/code_1.144.0-1793133881_amd64.deb",
-        "checksum": "b8fbff92d8d95908990eed0acf004c980f29003725469e794ddbd017ea511a20",
-        "size": 258781214
+        "version": "1.144.1-1793549573",
+        "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/261c84cb1eddf11235f9e2c921425e9663fbe556/code_1.144.1-1793549573_amd64.deb",
+        "checksum": "6ea99a41d03b62a5c6658bab66f12210322ebe4214dfa5f0bf1a3ca97501b848",
+        "size": 258786350
       },
-      "last_checked_at": "2026-11-02T03:12:12.9799933Z"
+      "last_checked_at": "2026-11-03T04:27:56.150274058Z"
     }
   }
 }
