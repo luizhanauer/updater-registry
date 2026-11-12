@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T03:38:28.16188116Z",
+  "last_updated": "2026-11-12T04:46:32.930056094Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -10,12 +10,12 @@
       "package_name": "google-chrome-stable",
       "install_type": "deb",
       "current_release": {
-        "version": "157.0.8103.50-1",
+        "version": "157.0.8103.78-1",
         "download_url": "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb",
-        "checksum": "92148bd14dc05823a64061c2fafcf20d4d82b3fc56f5831206f16d2ac9ee3f79",
-        "size": 147674220
+        "checksum": "4d740636b5c96f687798602c5aad6a5a270f44dd02e48db0638ae77aa4867b1b",
+        "size": 147497676
       },
-      "last_checked_at": "2026-11-11T03:38:28.006159481Z"
+      "last_checked_at": "2026-11-12T04:46:32.786266235Z"
     },
     "discord": {
       "id": "discord",
@@ -31,7 +31,7 @@
         "checksum": "93d43ad090825b9edcacfb3841506ea51e7040c60d93a9e377d0caca547bea28",
         "size": 2387236
       },
-      "last_checked_at": "2026-11-11T03:38:22.579147933Z"
+      "last_checked_at": "2026-11-12T04:46:25.338243094Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "46aa36778f16d98a86823fc42fcb7ef47efab346ff19380165201aa373ebf70a",
         "size": 127567920
       },
-      "last_checked_at": "2026-11-11T03:38:21.955141524Z"
+      "last_checked_at": "2026-11-12T04:46:24.185414078Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "a9f062057576074439e6467f2716e3bbed6a0edab6ebf2c2f9595a3d2f1dc57f",
         "size": 159354224
       },
-      "last_checked_at": "2026-11-11T03:38:28.161495997Z"
+      "last_checked_at": "2026-11-12T04:46:32.92954074Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -74,12 +74,12 @@
       "package_name": "rustdesk",
       "install_type": "deb",
       "current_release": {
-        "version": "1.5.1",
-        "download_url": "https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-x86_64.deb",
-        "checksum": "b5d682ad90cb7571ecbdbf26eef58d3c4514e726a74ef6d08ce3f0b114ef0bd9",
-        "size": 25337156
+        "version": "1.5.3",
+        "download_url": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-x86_64.deb",
+        "checksum": "81096d2f65fd43352540c351bca15bb0712a2a6f9efa4c95e9fff25cb97b3b81",
+        "size": 25345980
       },
-      "last_checked_at": "2026-11-11T03:38:22.103644423Z"
+      "last_checked_at": "2026-11-12T04:46:24.876360234Z"
     },
     "vscode": {
       "id": "vscode",
@@ -90,12 +90,12 @@
       "package_name": "code",
       "install_type": "deb",
       "current_release": {
-        "version": "1.145.3-1794015171",
-        "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/dcd3ad6e368fbe19d03f37054a40dbaf40d676f4/code_1.145.3-1794015171_amd64.deb",
-        "checksum": "68d94e293056455af5b40431f71a750eb3cd790813278e546668c7f154ae4258",
-        "size": 263042646
+        "version": "1.146.0-1794340865",
+        "download_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/code_1.146.0-1794340865_amd64.deb",
+        "checksum": "f83565f7f11a60b256807fe2216da8405f9728f193754959695242eecd148992",
+        "size": 291523322
       },
-      "last_checked_at": "2026-11-11T03:38:26.676016222Z"
+      "last_checked_at": "2026-11-12T04:46:27.022903299Z"
     }
   }
 }
