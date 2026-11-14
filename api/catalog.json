@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T03:58:16.756585495Z",
+  "last_updated": "2026-11-14T03:56:26.33097687Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -15,7 +15,7 @@
         "checksum": "4d740636b5c96f687798602c5aad6a5a270f44dd02e48db0638ae77aa4867b1b",
         "size": 147497676
       },
-      "last_checked_at": "2026-11-13T03:58:16.607282288Z"
+      "last_checked_at": "2026-11-14T03:56:26.133826037Z"
     },
     "discord": {
       "id": "discord",
@@ -26,12 +26,12 @@
       "package_name": "discord",
       "install_type": "deb",
       "current_release": {
-        "version": "1.0.168",
-        "download_url": "https://stable.dl2.discordapp.net/apps/linux/1.0.168/discord-1.0.168.deb",
-        "checksum": "93d43ad090825b9edcacfb3841506ea51e7040c60d93a9e377d0caca547bea28",
-        "size": 2387236
+        "version": "1.0.169",
+        "download_url": "https://stable.dl2.discordapp.net/distro/app/stable/linux/x64/1.0.169/Discord.deb",
+        "checksum": "64d39ef66390149c09ec7d20759a2e4aa0b93efc071d073e3e72155eb86639df",
+        "size": 4450706
       },
-      "last_checked_at": "2026-11-13T03:58:14.13174635Z"
+      "last_checked_at": "2026-11-14T03:56:19.408585103Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "46aa36778f16d98a86823fc42fcb7ef47efab346ff19380165201aa373ebf70a",
         "size": 127567920
       },
-      "last_checked_at": "2026-11-13T03:58:13.550820919Z"
+      "last_checked_at": "2026-11-14T03:56:18.630195026Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "a9f062057576074439e6467f2716e3bbed6a0edab6ebf2c2f9595a3d2f1dc57f",
         "size": 159354224
       },
-      "last_checked_at": "2026-11-13T03:58:16.75619301Z"
+      "last_checked_at": "2026-11-14T03:56:26.33052316Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "81096d2f65fd43352540c351bca15bb0712a2a6f9efa4c95e9fff25cb97b3b81",
         "size": 25345980
       },
-      "last_checked_at": "2026-11-13T03:58:13.696397651Z"
+      "last_checked_at": "2026-11-14T03:56:18.827578141Z"
     },
     "vscode": {
       "id": "vscode",
@@ -95,7 +95,7 @@
         "checksum": "f83565f7f11a60b256807fe2216da8405f9728f193754959695242eecd148992",
         "size": 291523322
       },
-      "last_checked_at": "2026-11-13T03:58:16.154914768Z"
+      "last_checked_at": "2026-11-14T03:56:25.114304642Z"
     }
   }
 }
