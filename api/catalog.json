@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T05:36:41.056799592Z",
+  "last_updated": "2026-11-18T05:00:20.577982585Z",
   "apps": {
     "chrome": {
       "id": "chrome",
@@ -10,12 +10,12 @@
       "package_name": "google-chrome-stable",
       "install_type": "deb",
       "current_release": {
-        "version": "157.0.8103.78-1",
+        "version": "158.0.8127.36-1",
         "download_url": "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb",
-        "checksum": "4d740636b5c96f687798602c5aad6a5a270f44dd02e48db0638ae77aa4867b1b",
-        "size": 147497676
+        "checksum": "4696bce00b128f385a870ba2eb6eede61698f22374ea0d8e09af8a1c6543d397",
+        "size": 152702276
       },
-      "last_checked_at": "2026-11-17T05:36:40.822944284Z"
+      "last_checked_at": "2026-11-18T05:00:20.3883463Z"
     },
     "discord": {
       "id": "discord",
@@ -31,7 +31,7 @@
         "checksum": "64d39ef66390149c09ec7d20759a2e4aa0b93efc071d073e3e72155eb86639df",
         "size": 4450706
       },
-      "last_checked_at": "2026-11-17T05:36:33.354909519Z"
+      "last_checked_at": "2026-11-18T05:00:00.719617492Z"
     },
     "heroic": {
       "id": "heroic",
@@ -47,7 +47,7 @@
         "checksum": "46aa36778f16d98a86823fc42fcb7ef47efab346ff19380165201aa373ebf70a",
         "size": 127567920
       },
-      "last_checked_at": "2026-11-17T05:36:32.748565297Z"
+      "last_checked_at": "2026-11-18T04:59:59.978883243Z"
     },
     "obs": {
       "id": "obs",
@@ -63,7 +63,7 @@
         "checksum": "a9f062057576074439e6467f2716e3bbed6a0edab6ebf2c2f9595a3d2f1dc57f",
         "size": 159354224
       },
-      "last_checked_at": "2026-11-17T05:36:41.056470661Z"
+      "last_checked_at": "2026-11-18T05:00:20.577413562Z"
     },
     "rustdesk": {
       "id": "rustdesk",
@@ -79,7 +79,7 @@
         "checksum": "81096d2f65fd43352540c351bca15bb0712a2a6f9efa4c95e9fff25cb97b3b81",
         "size": 25345980
       },
-      "last_checked_at": "2026-11-17T05:36:32.968700379Z"
+      "last_checked_at": "2026-11-18T05:00:00.239256596Z"
     },
     "vscode": {
       "id": "vscode",
@@ -95,7 +95,7 @@
         "checksum": "f83565f7f11a60b256807fe2216da8405f9728f193754959695242eecd148992",
         "size": 291523322
       },
-      "last_checked_at": "2026-11-17T05:36:40.265339929Z"
+      "last_checked_at": "2026-11-18T05:00:17.149645283Z"
     }
   }
 }
